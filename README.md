@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkwon515&show_icons=true&theme=shades-of-purple) <br>
 ## 🔨 Once I've used 🔨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkwon515&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkwon515&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
