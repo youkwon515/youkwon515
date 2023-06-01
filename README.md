@@ -9,6 +9,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,python,vscode,mysql,aws,stackoverflow)](https://skillicons.dev)
 
+
+[![Html](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/wervlad)
+[![Css](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/wervlad)
+
+
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
