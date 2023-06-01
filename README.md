@@ -4,6 +4,11 @@
 ## 🔨 Once I've used 🔨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkwon515&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss)](https://skillicons.dev) <br>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,python,vscode,mysql,aws,stackoverflow)](https://skillicons.dev)
+
 <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -16,4 +21,3 @@
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
-
