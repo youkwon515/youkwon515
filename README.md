@@ -1,14 +1,11 @@
 
 ## 😊 YouKwon Jeong 😊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkwon515&show_icons=true&theme=dark) <br>
+
 ## 🔨 Once I've used 🔨
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkwon515&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss)](https://skillicons.dev) <br>
-
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,django,python,vscode,mysql,aws,stackoverflow)](https://skillicons.dev)
-
 
 [![Html](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/wervlad)
 [![Css](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/wervlad)
