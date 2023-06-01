@@ -1,6 +1,6 @@
 
 ## 😊 YouKwon Jeong 😊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkwon515&show_icons=true&theme=shades-of-purple) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youkwon515&show_icons=true&theme=dark) <br>
 ## 🔨 Once I've used 🔨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youkwon515&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
